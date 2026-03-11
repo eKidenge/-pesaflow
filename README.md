@@ -36,7 +36,7 @@ the sample you wish to run.
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 [![Actions Status][gh-actions-badge]][gh-actions]
-[![SAM Score][sam-score-badge]][sam-score]
+[![SAM Score][sam-score-badge]][eKidenge]
 
 [gh-actions]: https://github.com/firebase/quickstart-android/actions
 [gh-actions-badge]: https://github.com/firebase/quickstart-android/actions/workflows/android.yml/badge.svg?branch=master&event=push
